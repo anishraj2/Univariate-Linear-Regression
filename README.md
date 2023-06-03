@@ -37,8 +37,8 @@ plt.plot(X,Y_pred,color='orange')
 plt.show()
 ```
 ## Output
-</br>![Output](Screenshot%20(127).png)
-</br>
+</br>![Output](1.png)
+</br>![Output](2.png)
 </br>
 </br>
 
